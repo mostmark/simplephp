@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <h1>This is the bäääst PHP application in the world</h1>
         <?php
-        echo "Hello World!";
+        echo "The time is " . date("h:i:sa");
         ?>
     </body>
 </html>
