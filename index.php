@@ -17,8 +17,8 @@
         <h1>This is the best PHP application in the world!</h1>
         <br/>
         <?php
-        echo "The time is " . date("h:i:sa");
-        echo "<br/>The hostname is " . gethostname();
+        echo "The time is <b>" . date("h:i:sa") . "</b>";
+        echo "<br/>The hostname is <b>" . gethostname() . "</b>";
         ?>
         <br/>
         <br/>
