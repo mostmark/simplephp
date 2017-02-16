@@ -21,6 +21,7 @@
         echo "<br/>The hostname is " . gethostname();
         ?>
         <br/>
+        <br/>
         <div class="rectangle"/>
     </body>
 </html>
