@@ -15,13 +15,11 @@
     </head>
     <body>
         <h1>This is the best PHP application in the world!</h1>
-        <!--
         <br/>
         <?php
         echo "The time is " . date("h:i:sa");
         echo "<br/>The hostname is " . gethostname();
         ?>
-        -->
         <br/>
         <div class="rectangle"/>
     </body>
