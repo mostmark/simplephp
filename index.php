@@ -8,6 +8,11 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
+        <style>
+          body {
+              background-color: green
+          }
+        </style>
     </head>
     <body>
         <h1>This is the best PHP application in the world</h1>
