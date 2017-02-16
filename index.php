@@ -9,7 +9,7 @@
               height:100px;
               border:0px solid #000;
               text-align:center;
-              background-color: green;
+              background-color: blue;
           }
         </style>
     </head>
