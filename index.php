@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>This is the bäääst PHP application in the world</h1>
+        <h1>This is the best PHP application in the world</h1>
         <?php
         echo "The time is " . date("h:i:sa");
         echo "<br>The hostname is " . gethostname();
