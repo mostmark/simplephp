@@ -1,3 +1,3 @@
 <?php
-print "VERSION 1 - " .$_SERVER['SERVER_ADDR'] ." - " . gethostname();
+print "VERSION 1 - hostname: " . gethostname() . " - ip address: " . $_SERVER['SERVER_ADDR'];
 ?>
