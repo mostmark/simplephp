@@ -1,4 +1,3 @@
 <?php
-print "VERSION 1";
-print $_SERVER['REMOTE_ADDR'];
+print "VERSION 1 - " .$_SERVER['REMOTE_ADDR'];
 ?>
